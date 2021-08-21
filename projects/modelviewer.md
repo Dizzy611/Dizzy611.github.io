@@ -14,3 +14,6 @@ Originally, I had planned to include a moving player-style camera, with potentia
 ## Skills learned and expanded
 
 Regarding the process of enhancing the artifact, I learned quite a bit about how to declare and define classes using headers and separate cpp files in the process of enhancing this project. I had some experience doing similar things before in other languages such as Python, but it was my first time trying to move a monolithic C++ project to be something more modular, and much was learned in this process. I also learned about the use of lambdas as a way to use a class method in place of a function pointer in callbacks, and learned about lambdas in C++ and how they function in general. Finally, I learned about how to save and load 32-bit floating point data in a consistent binary fashion to a flatfile, as well as how to migrate a MinGW project to Visual Studio and, in the process, how to properly set up a .gitignore for Visual Studio and how to install the correct NuGet packages necessary for this project.
+
+## Link
+https://github.com/Dizzy611/SNHUGLCapstone
