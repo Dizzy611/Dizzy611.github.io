@@ -40,3 +40,4 @@ The third project chosen for inclusion is a dashboard for interacting with a dat
 
 [Animal Rescue Database Dashboard](projects/mongodb.md) ([direct project link](https://github.com/Dizzy611/SNHUDatabaseePortfolio))
 
+[Code Review Video](https://youtu.be/sgcvZrx4wMM)
