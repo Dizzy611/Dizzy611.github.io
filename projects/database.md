@@ -1,4 +1,4 @@
-## Introduction
+## Project Description
 
 TODO
 
@@ -12,3 +12,4 @@ TODO
 
 TODO
 
+## [Project Link](https://github.com/Dizzy611/SNHUDatabaseePortfolio)
