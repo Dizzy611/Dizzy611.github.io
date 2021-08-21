@@ -34,6 +34,9 @@ The third project chosen for inclusion is a dashboard for interacting with a dat
 
 ### Links
 
-[OpenGL Model Viewer](projects/modelviewer.md) ([direct project link](https://github.com/Dizzy611/SNHUGLCapstone)
-[SQL Injection Mitigation](projects/sqlinject.md) ([direct project link](https://github.com/Dizzy611/SNHUSQLInjectionePortfolio)
-[Animal Rescue Database Dashboard](projects/database.md) ([direct project link](https://github.com/Dizzy611/SNHUDatabaseePortfolio)
+[OpenGL Model Viewer](projects/modelviewer.md) ([direct project link](https://github.com/Dizzy611/SNHUGLCapstone))
+
+[SQL Injection Mitigation](projects/sqlinject.md) ([direct project link](https://github.com/Dizzy611/SNHUSQLInjectionePortfolio))
+
+[Animal Rescue Database Dashboard](projects/database.md) ([direct project link](https://github.com/Dizzy611/SNHUDatabaseePortfolio))
+
