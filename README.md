@@ -38,6 +38,6 @@ The third project chosen for inclusion is a dashboard for interacting with a dat
 
 [SQL Injection Mitigation](projects/sqlinject.md) ([direct project link](https://github.com/Dizzy611/SNHUSQLInjectionePortfolio))
 
-[Animal Rescue Database Dashboard](projects/mongodb.md) ([direct project link](https://github.com/Dizzy611/SNHUDatabaseePortfolio))
+[Animal Rescue Database Dashboard](projects/database.md) ([direct project link](https://github.com/Dizzy611/SNHUDatabaseePortfolio))
 
 [Code Review Video](https://youtu.be/sgcvZrx4wMM)
